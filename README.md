@@ -1,7 +1,15 @@
+## 👋 (Ewan McGregor voice) Hello There
+
+💻 I’m Derek Chen, currently studying Computer Science at The University of Texas at Austin and interested in Computer Science and Software Development
+📧 Email: derexh2so4@utexas.edu
+
 ![](https://i.imgur.com/CgBspOI.png)
 
-(In Ewan McGregor voice) Hello There
+## Coding Languages
 
-I’m Derek Chen, currently studying Computer Science at The University of Texas at Austin and interested in Computer Science and Software Development
-
-Email: derec0614@gmail.com
+* Java
+* Python
+* Javascript
+* HTML
+* CSS
+* node.js
