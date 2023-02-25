@@ -4,13 +4,12 @@
 
 📧 Email: derexh2so4@utexas.edu
 
-## Coding Languages
+## Languages
 
 * Java
 * Python
 * Javascript
-* HTML
-* CSS
+* HTML/CSS
 * node.js
 
 ![](https://i.imgur.com/CgBspOI.png)
