@@ -11,6 +11,8 @@
 * Javascript
 * HTML/CSS
 * node.js
+* C
+* Assembly
 
 ![](https://i.imgur.com/CgBspOI.png)
 
