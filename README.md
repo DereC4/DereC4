@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **how to survive a mess of Tailwind CSS**
 
-- 👨‍💻 Portfolio Link [Coming soon!]
+- 👨‍💻 Portfolio Link: [Coming soon!]
 
-- 📫 How to reach me **derexh2so4@utexas.edu**
+- 📫 Reach me at: **derexh2so4@utexas.edu**
 
-- ⚡ Fun fact **As part of my never ending Star Wars nerding, I made a fan film with my school's orchestra program as a graduation project**
+- ⚡ Fun fact: **As part of my never ending Star Wars nerding, I made a fan film with my school's orchestra program as a graduation project**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
