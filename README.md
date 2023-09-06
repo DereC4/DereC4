@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Derek Chen</h1>
 <h3 align="center">A passionate software developer studying at UT Austin</h3>
 
-- 🔭 I’m currently working on **FindMyOrg**
+- 🔭 I’m currently working on [**FindMyOrg**](https://findmyorg.netlify.app/)
 
 - 🌱 I’m currently learning **how to survive a mess of Tailwind CSS**
 
