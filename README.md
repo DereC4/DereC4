@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **how to survive a mess of Tailwind CSS**
 
-- 👨‍💻 Portfolio Link [Coming soon!](Coming soon!)
+- 👨‍💻 Portfolio Link [Coming soon!]
 
 - 📫 How to reach me **derexh2so4@utexas.edu**
 
