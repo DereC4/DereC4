@@ -9,7 +9,7 @@
 
 - 📫 Reach me at: **derexh2so4@utexas.edu**
 
-- ⚡ Fun fact: **As part of my never ending Star Wars nerding, I made a fan film with my school's orchestra program as a graduation project**
+- ⚡ Fun fact: **As part of my never ending Star Wars nerding, I made a [fan film](https://youtu.be/vKaddjF631c?t=1282) with my school's orchestra program as a graduation project**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
