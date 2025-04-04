@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact: **As part of my endless Star Wars nerding, I made a [fan film](https://youtu.be/vKaddjF631c?t=1282) with my school's orchestra program as a graduation project**
 
-<h3 align="left">Connect with me <a href="https://www.linkedin.com/in/derekyujirchen/">here!</h3>
+
 <p align="left">
 </p>
 
