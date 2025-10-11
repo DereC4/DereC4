@@ -81,7 +81,7 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=derec4&style=for-the-badge&label=Arbitrary+Statistic)
+![](https://komarev.com/ghpvc/?username=derec4&style=for-the-badge&label=Profile+Visitors)
 
 <!--
 brought to you by - derex_ aka derec4 aka derexxd aka derexd aka DereC_ aka CORRUPT_Greninja or whatever my username is these days
