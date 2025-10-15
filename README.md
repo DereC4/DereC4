@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Derek Chen</h1>
+<h1 align="center">Hi 👋, I'm Derek</h1>
 <h3 align="center">A software developer studying at UT Austin</h3>
 
 - 🔭 I’m currently working on [**UT Registration Plus**](https://chromewebstore.google.com/detail/ut-registration-plus/hboadpjkoaieogjimneceaahlppnipaa)
