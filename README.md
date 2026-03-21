@@ -10,7 +10,7 @@
 - ⚡ Fun fact: **As part of my endless Star Wars nerding, I made a [fan film](https://youtu.be/vKaddjF631c?t=1282) with my school's orchestra program as a graduation project**
 
 - 📫 Reach me at: **derexh2so4@utexas.edu**
-- 
+
 <p align="left">
 </p>
 
