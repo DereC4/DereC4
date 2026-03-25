@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **how to survive a mess of Tailwind**
 
-- 👨‍💻 Check out my [Portfolio Website!](https://derekchen.vercel.app/)
+- 👨‍💻 Check out my [developer portfolio website!](https://derekchen.vercel.app/)
   
 - ⚡ Fun fact: **As part of my endless Star Wars nerding, I made a [fan film](https://youtu.be/vKaddjF631c?t=1282) with my school's orchestra program as a graduation project**
 
