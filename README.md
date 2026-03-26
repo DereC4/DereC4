@@ -3,7 +3,7 @@
 
 - Check out my [developer portfolio website!](https://derekchen.vercel.app/)
 - I’m currently working on [**UT Registration Plus**](https://chromewebstore.google.com/detail/ut-registration-plus/hboadpjkoaieogjimneceaahlppnipaa)
-- Also learning **how to survive a mess of Tailwind**
+- Previously worked @ [Charles Schwab](https://www.schwab.com/), [AT&T](https://www.att.com/)
 - Fun fact: **As part of my endless Star Wars nerding, I made a [fan film](https://youtu.be/vKaddjF631c?t=1282) with my school's orchestra program as a graduation project**
 - Reach me at: **derexh2so4@utexas.edu**
 
