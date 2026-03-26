@@ -1,15 +1,11 @@
-<h1 align="center">Hi 👋, I'm Derek</h1>
-<h3 align="center">A fourth year Computer Science student at UT Austin</h3>
+<h1 align="left">Hi, I'm Derek</h1>
+<h3 align="left">A fourth year Computer Science student at UT Austin</h3>
 
-- 🔭 I’m currently working on [**UT Registration Plus**](https://chromewebstore.google.com/detail/ut-registration-plus/hboadpjkoaieogjimneceaahlppnipaa)
-
-- 🌱 I’m currently learning **how to survive a mess of Tailwind**
-
-- 👨‍💻 Check out my [developer portfolio website!](https://derekchen.vercel.app/)
-  
-- ⚡ Fun fact: **As part of my endless Star Wars nerding, I made a [fan film](https://youtu.be/vKaddjF631c?t=1282) with my school's orchestra program as a graduation project**
-
-- 📫 Reach me at: **derexh2so4@utexas.edu**
+- Check out my [developer portfolio website!](https://derekchen.vercel.app/)
+- I’m currently working on [**UT Registration Plus**](https://chromewebstore.google.com/detail/ut-registration-plus/hboadpjkoaieogjimneceaahlppnipaa)
+- Also learning **how to survive a mess of Tailwind**
+- Fun fact: **As part of my endless Star Wars nerding, I made a [fan film](https://youtu.be/vKaddjF631c?t=1282) with my school's orchestra program as a graduation project**
+- Reach me at: **derexh2so4@utexas.edu**
 
 <p align="left">
 </p>
