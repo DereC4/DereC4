@@ -10,6 +10,16 @@
 <p align="left">
 </p>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/DereC4" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="DereC4" height="30" width="40" />
+</a>
+<a href="https://www.linkedin.com/in/derekyujirchen/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="derekyujirchen" height="30" width="40" />
+</a>
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" />
