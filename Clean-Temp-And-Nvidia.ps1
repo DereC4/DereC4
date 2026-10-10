@@ -16,11 +16,16 @@ param()
 
 $ErrorActionPreference = 'SilentlyContinue'
 
-# 1. Resolve Strict Canonical System Roots (immune to environment variable poisoning)
-$systemDrive = if ($env:SystemDrive) { $env:SystemDrive } else { "C:" }
-$localAppData = if ($env:LOCALAPPDATA) { $env:LOCALAPPDATA } else { "$systemDrive\Users\$env:USERNAME\AppData\Local" }
-$systemRoot   = if ($env:SystemRoot) { $env:SystemRoot } else { "$systemDrive\Windows" }
-$programData  = if ($env:ProgramData) { $env:ProgramData } else { "$systemDrive\ProgramData" }
+# 1. Resolve Strict Canonical System Roots via Native .NET (Immune to environment block spoofing)
+$localAppData = [Environment]::GetFolderPath([Environment+SpecialFolder]::LocalApplicationData)
+$systemRoot   = [Environment]::GetFolderPath([Environment+SpecialFolder]::Windows)
+$programData  = [Environment]::GetFolderPath([Environment+SpecialFolder]::CommonApplicationData)
+
+# Fallback/Safety Check - Ensure paths actually resolved
+if ([string]::IsNullOrWhiteSpace($systemRoot) -or [string]::IsNullOrWhiteSpace($localAppData)) {
+    Write-Error "Critical security failure: Could not resolve canonical OS paths."
+    exit 1
+}
 
 # 2. Strict Canonical Path Whitelist
 $TargetSpecs = @(
